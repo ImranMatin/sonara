@@ -41,7 +41,7 @@ For individuals, this is frustrating. [cite_start]For companies, it represents a
 1.  Clone the repository:
     ```bash
     git clone <YOUR_GIT_URL>
-    cd sonar/backend
+    cd sonara/backend
     ```
 2.  Create a virtual environment and install dependencies:
     ```bash
