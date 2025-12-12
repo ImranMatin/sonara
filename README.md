@@ -1,9 +1,9 @@
-# Sonar: Stop Guessing. Start Knowing.
+# Sonara: Stop Guessing. Start Knowing.
 
 [![Event - 3rd Hackathon](https://img.shields.io/badge/Event-3rd%20Hackathon-blue)](https://...link-to-event...)
 [![Track - SAP Corporate Challenge](https://img.shields.io/badge/Track-SAP%20Corporate%20Challenge-yellow)](https://...link-to-challenge...)
 
-[cite_start]**Sonar** is an AI system that unlocks your team's hidden potential[cite: 3]. [cite_start]This project is a submission for the **3rd Hackathon** in the **SAP Corporate Challenge**[cite: 5].
+[cite_start]**Sonara** is an AI system that unlocks your team's hidden potential[cite: 3]. [cite_start]This project is a submission for the **3rd Hackathon** in the **SAP Corporate Challenge**[cite: 5].
 
 ---
 
@@ -13,7 +13,7 @@
 
 For individuals, this is frustrating. [cite_start]For companies, it represents a massive waste of potential and millions in untapped productivity[cite: 9].
 
-## 💡 The Solution: Meet Sonar
+## 💡 The Solution: Meet Sonara
 
 [cite_start]**Sonar** is an AI system that answers the question, "What am I *truly* good at?"[cite: 14].
 
@@ -40,7 +40,7 @@ For individuals, this is frustrating. [cite_start]For companies, it represents a
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/lucassgonz/sonar.git](https://github.com/lucassgonz/sonar.git)
+    git clone <YOUR_GIT_URL>
     cd sonar/backend
     ```
 2.  Create a virtual environment and install dependencies:
