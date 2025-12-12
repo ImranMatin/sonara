@@ -15,7 +15,7 @@ For individuals, this is frustrating. [cite_start]For companies, it represents a
 
 ## 💡 The Solution: Meet Sonara
 
-[cite_start]**Sonar** is an AI system that answers the question, "What am I *truly* good at?"[cite: 14].
+[cite_start]**Sonara** is an AI system that answers the question, "What am I *truly* good at?"[cite: 14].
 
 [cite_start]It builds a dynamic, validated skill profile by connecting to the sources where real work happens, transforming scattered data into actionable intelligence[cite: 15].
 
@@ -40,7 +40,7 @@ For individuals, this is frustrating. [cite_start]For companies, it represents a
 
 1.  Clone the repository:
     ```bash
-    git clone <YOUR_GIT_URL>
+    git clone https://github.com/ImranMatin/sonara.git
     cd sonara/backend
     ```
 2.  Create a virtual environment and install dependencies:
